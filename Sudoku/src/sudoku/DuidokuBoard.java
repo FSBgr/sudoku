@@ -3,7 +3,8 @@ package sudoku;
 import java.util.HashSet;
 import java.util.Random;
 
-/** Sudoku.DuidokuBoard is the class that represents the board of a Sudoku.Duidoku game
+/**  @author Alexandros Stergiopoulos & Christos Christidis
+ * Sudoku.DuidokuBoard is the class that represents the board of a Sudoku.Duidoku game
  * It inherits from the mother class Sudoku.Board and has no extra fields, only a few methods
  * so the pc can make a move on the board
  *
