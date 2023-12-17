@@ -9,7 +9,7 @@ import java.awt.event.MouseListener;
 import java.util.HashSet;
 import java.util.ResourceBundle;
 
-/** @author Christos Christidis
+/** @author Alexandros Stergiopoulos & Christos Christidis
  *
  * This class represents the window/frame where the duidoku mode of the game is played.
  */
