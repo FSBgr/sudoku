@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.HashSet;
 import java.util.Random;
 
-/** @author Alexandros Stergiopoulos
+/** @author Alexandros Stergiopoulos & Christos Christidis
  *
  * Sudoku.ClassicBoard is the class that represents the board of a classic sudoku
  * It extends the class Sudoku.Board, that has methods that every sudoku game must have
