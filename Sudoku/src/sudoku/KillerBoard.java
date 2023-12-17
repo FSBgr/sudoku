@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
 
-/**@author Alexandros Stergiopoulos, Christos Christidis
+/**@author Alexandros Stergiopoulos & Christos Christidis
  *
  * The class Sudoku.KillerBoard represents a board for a puzzle of a killer sudoku
  * Killer sudoku has the same rules as the classic one with one more
