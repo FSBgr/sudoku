@@ -2,7 +2,7 @@ package sudoku;
 
 import java.util.HashSet;
 
-/**@author Alexandros Stergiopoulos
+/**@author Alexandros Stergiopoulos & Christos Christidis
  *
  * The class Sudoku.Board represents a general sudoku board with no specific size
  * It exists as a mother class for the specific modes like classic, killer etc.
