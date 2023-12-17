@@ -6,7 +6,7 @@ import java.awt.event.*;
 import java.util.HashSet;
 import java.util.ResourceBundle;
 
-/** @author Christos Christidis
+/** @author Alexandros Stergiopoulos & Christos Christidis
  *
  * This class represents the window/frame where the classic version of the game is played. It consists of a nxn grid
  * of JTextfields. All messages/texts/strings that are printed to the screen(user) are in the language of the user's
