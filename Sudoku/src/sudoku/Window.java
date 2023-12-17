@@ -8,7 +8,7 @@ import java.net.URL;
 import java.util.Locale;
 import java.util.ResourceBundle;
 
-/** @author Christos Christidis, Alexandros Stergiopoulos
+/** @author Alexandros Stergiopoulos & Christos Christidis
  * This class represents the main menu Sudoku.Window of the sudoku game. It includes all of the buttons required to do
  * all needed functions of the game (Choose game mode, login, check stats, check instructions and quit).
  */
