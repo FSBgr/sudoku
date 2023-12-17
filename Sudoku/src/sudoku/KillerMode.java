@@ -6,7 +6,7 @@ import java.awt.event.*;
 import java.util.HashSet;
 import java.util.ResourceBundle;
 
-/** @author Christos Christidis
+/** @author Alexandros Stergiopoulos & Christos Christidis
  *
  * This class represents the window/frame where the killer mode of the game is played.
  */
