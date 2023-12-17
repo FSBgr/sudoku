@@ -3,7 +3,7 @@ package sudoku;
 import java.io.*;
 import java.util.HashSet;
 
-/**@author Alexandros Stergiopoulos
+/**@author Alexandros Stergiopoulos & Christos Christidis
  *
  * The class player represents a user playing the game sudoku
  *
